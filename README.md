@@ -1,4 +1,4 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# My Portfolio
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
 
